@@ -1,0 +1,23 @@
+## Langchain and Related Libraries
+langchain
+langgraph
+langchain-core
+langchain-groq
+langchain-community
+langsmith
+
+# pdf reader
+pypdf
+# Environment Variable Management
+python-dotenv
+
+##vector database
+faiss-cpu
+# senetence embedding
+sentence-transformers
+tf-keras
+## Database Connectors
+langgraph-checkpoint-sqlite
+
+## UI Interface
+streamlit
